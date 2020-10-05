@@ -138,11 +138,12 @@
             // 
             // lbHaromszogLista
             // 
+            this.lbHaromszogLista.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.lbHaromszogLista.FormattingEnabled = true;
-            this.lbHaromszogLista.ItemHeight = 24;
+            this.lbHaromszogLista.ItemHeight = 16;
             this.lbHaromszogLista.Location = new System.Drawing.Point(401, 49);
             this.lbHaromszogLista.Name = "lbHaromszogLista";
-            this.lbHaromszogLista.Size = new System.Drawing.Size(195, 268);
+            this.lbHaromszogLista.Size = new System.Drawing.Size(195, 260);
             this.lbHaromszogLista.TabIndex = 10;
             // 
             // btnTorol
